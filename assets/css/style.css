@@ -1,0 +1,54 @@
+body{
+	background-image: URL("../images/alwayssunnybackground.jpg");
+	background-repeat:no-repeat;
+	background-attachment: fixed;
+	background-size: cover;
+}
+#content {
+	background-color: #FFCC11;
+	margin-top: 50px;
+	margin-bottom: 50px;
+	border-radius: 10px;
+}
+#header {
+	margin-bottom: 100px;
+}
+#playButton {
+	margin-bottom: 100px;
+}
+#startButton {
+	color: #FFCC11;
+	background-color: #000000;
+}
+#sunnyWin {
+	margin-bottom: 50px;
+}
+#playAgainButton {
+	color: #FFCC11;
+	background-color: #000000;
+	margin-bottom: 50px;
+}
+.answers {
+	width: 100%;
+	border: 2px solid black;
+	border-radius: 10px;
+}
+#question {
+	width: 100%;
+	border: 2px solid black;
+	border-radius: 10px;
+}
+#timer {
+	width: 100%;
+	border: 2px solid black;
+	border-radius: 10px;
+}
+#questionResult {
+	margin-bottom: 50px;
+}
+.answers:hover {
+	background-color: #FFF;
+}
+#answersSection {
+	margin-bottom: 50px;
+}
